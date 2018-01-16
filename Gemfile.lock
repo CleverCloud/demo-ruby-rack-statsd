@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    puma (3.11.0)
+    rack (2.0.3)
+    statsd-instrument (2.1.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  puma (~> 3.11)
+  rack
+  statsd-instrument
+
+BUNDLED WITH
+   1.16.1
